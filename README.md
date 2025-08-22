@@ -1,2 +1,10 @@
-# Basic-Ecommerce-Web-app-
-A basic e-commerce web app like yours is a minimalist yet functional platform allowing users to browse products and manage a shopping cart. It serves as a digital storefront, enabling fundamental online shopping interactions.
+# 🛒 Basic E-Commerce Web App
+
+A simple e-commerce web app built with **HTML, CSS, JavaScript**.
+## 📸 Preview
+![App Screenshot](screenshot.png)
+## 🚀 Features
+- Product catalog
+- Add to cart
+- Dynamic total price
+- Checkout simulation
